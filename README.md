@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ## 💻 Usage
 ### 1. IDM
 
-### IDM Baseline (Reference)
+#### IDM Baseline (Reference)
 Run dataset condensation with IDM on CIFAR-10 (IPC=50):
 ```bash
 python3 IDM_cifar.py --dataset CIFAR10 --ipc 50 --ce_weight 0.1
@@ -67,7 +67,7 @@ Main Options:
 --ce_weight: 0.5 (ipc=1,10) / 0.1 (ipc=50)
 ```
 
-### RDC + IDM
+#### RDC + IDM
 Run dataset condensation with IDM+RDC on CIFAR-10 (IPC=50):
 ```bash
 python3 IDM_cifar+RDC.py --dataset CIFAR10 --ipc 50 --ce_weight 0.1
@@ -99,7 +99,7 @@ python pretrain.py \
   --aug_type color_crop_cutout_flip_scale_rotate
 ```
 
-#### 2. Acc-DD: Condensation Step
+#### 2. Acc-DD Baseline: Condensation Step (Reference)
 ```bash
 python condense.py \
   --reproduce \
