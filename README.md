@@ -41,7 +41,7 @@ git clone https://github.com/DISL-Lab/RDC-ICCV2025.git
 cd RDC-ICCV2025
 
 # Create a new conda environment with Python 3.9
-conda create -n rdc python=3.9
+conda create -n rdc python=3.10
 
 # Activate the environment
 conda activate rdc
