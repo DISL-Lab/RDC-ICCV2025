@@ -120,7 +120,7 @@ python condense+RDC.py \
   -n resnet \
   --model_path <PRETRAINED_DIR>
 ```
-```-d```: dataset (CIFAR10 / CIFAR10N_asym_40 / CIFAR10N_asym_20 / CIFAR10N_sym_40 / CIFAR10N_sym_20 / CIFAR10N_ran1 / CIFAR10N_worse)
+```-d```: dataset (cifar10 / cifar10n_asym_40 / cifar10n_asym_20 / cifar10n_sym_40 / cifar10n_sym_20 / cifar10n_ran1 / cifar10n_worse)
 
 ## 📌 Citation
 Please check back once the ICCV 2025 paper is officially available.  
