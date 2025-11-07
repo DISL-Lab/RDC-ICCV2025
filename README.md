@@ -13,7 +13,8 @@ Dataset condensation compresses large datasets into compact synthetic sets, but 
 
 
 ## 📄 Paper
-ICCV 2025 paper link coming soon.
+Our paper is now available on the [ICCV 2025 Open Access page](https://openaccess.thecvf.com/content/ICCV2025/papers/Kim_Robust_Dataset_Condensation_using_Supervised_Contrastive_Learning_ICCV_2025_paper.pdf).
+
 
 ## 🖼️ Overview
 ![Figure](image/overview.png)
